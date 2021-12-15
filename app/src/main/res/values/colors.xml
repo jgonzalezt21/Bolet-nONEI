@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004D9D</color>
+    <color name="colorPrimaryVariant">#004D9D</color>
+    <color name="colorSecondary">#004D9D</color>
+    <color name="colorSecondaryVariant">#004D9D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_trans">#99000000</color>
+    <color name="blue_trans">#CC004D9D</color>
+</resources>

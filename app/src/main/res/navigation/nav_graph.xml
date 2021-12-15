@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menuFragment">
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="jgonzalezt.onei.boletin.fragments.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu"
+        app:startDestination="@id/action_menuFragment_to_contactFragment">
+        <action
+            android:id="@+id/action_menuFragment_to_contactFragment"
+            app:destination="@id/contactFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_oneiFragment"
+            app:destination="@id/oneiFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_holguinFragment"
+            app:destination="@id/holguinFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_leyDecFragment"
+            app:destination="@id/leyDecFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_demografiaFragment"
+            app:destination="@id/demografiaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="jgonzalezt.onei.boletin.fragments.ContactFragment"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/oneiFragment"
+        android:name="jgonzalezt.onei.boletin.fragments.OneiFragment"
+        android:label="fragment_onei"
+        tools:layout="@layout/fragment_onei" />
+    <fragment
+        android:id="@+id/holguinFragment"
+        android:name="jgonzalezt.onei.boletin.fragments.HolguinFragment"
+        android:label="fragment_holguin"
+        tools:layout="@layout/fragment_holguin" />
+    <fragment
+        android:id="@+id/leyDecFragment"
+        android:name="jgonzalezt.onei.boletin.fragments.LeyDecFragment"
+        android:label="fragment_ley_dec"
+        tools:layout="@layout/fragment_ley_dec" />
+    <fragment
+        android:id="@+id/demografiaFragment"
+        android:name="jgonzalezt.onei.boletin.fragments.DemografiaFragment"
+        android:label="fragment_demografia"
+        tools:layout="@layout/fragment_demografia" />
+</navigation>

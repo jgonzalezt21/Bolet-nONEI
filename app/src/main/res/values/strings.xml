@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Boletín</string>
+    <string name="imagen_fondo">Menú</string>
+    <!-- MENU -->
+    <string name="item1">ONEI</string>
+    <string name="item2">Holguín</string>
+    <string name="item3">Leyes y Decretos</string>
+    <string name="item4">Demografía</string>
+    <string name="item5">Contacto</string>
+    <!-- fragment Hlg -->
+    <string name="hlg_txt1">La provincia de Holguín es creada en 1977 con el establecimiento de la división político - administrativa, ocupa el 8,4 por ciento del territorio nacional.</string>
+    <string name="hlg_txt2">Situada al norte del oriente cubano, posee una extensión superficial de 9 215,7 kilómetros cuadrados incluyendo los cayos adyacentes. Limita al norte con el Océano Atlántico, al sur con las  provincias  de Granma y Santiago de Cuba, al este con Guantánamo (por la zona de Baracoa) y al oeste con Las Tunas.</string>
+    <string name="hlg_txt3">Posee cuatro zonas de relieve fundamentales: Llanura del Cauto, Altiplanicie de Nipe, donde se encuentra la meseta de Pinares de Mayarí, el Grupo de Maniabón, con el Cerro Galano y el Macizo Sagua - Baracoa, donde aparecen las mayores alturas de la provincia: Pico Cristal con 1 231 metros sobre el nivel del mar y la Loma La Mensura con 995 metros.</string>
+    <string name="hlg_txt4">Sus principales bahías naturales son Gibara, Banes y Nipe, la mayor bahía del país, con 21,7 kilómetros de largo, 14,2 de ancho y una profundidad máxima de 71,3 metros en su canal de entrada, considerada la segunda bahía de bolsa del mundo después de la bahía de Hudson en Canadá. Dentro del sistema fluvial los ríos más caudalosos son Mayarí, Sagua de Tánamo y Nipe.</string>
+    <string name="hlg_txt5">Las condiciones climáticas de la provincia se encuentran bien diferenciadas en dos zonas, una al oeste, de poco desarrollo hidrográfico y escasas lluvias, con el 25 por ciento del potencial hidráulico, sin embargo, es la parte donde se ubica el mayor fondo agrícola del territorio. Condición que variará al llegar las aguas del trasvase este-oeste en construcción; ya con la puesta en marcha de la primera fase.</string>
+    <string name="hlg_txt6">La otra zona, al este, presenta una red fluvial desarrollada, con el 75 por ciento del potencial hidráulico y abundante lluvia. En contraposición con lo anterior, fundamentalmente esta zona presenta suelos con grandes reservas de níquel, cobalto, hierro y cromo.</string>
+    <!-- fragment ONEI -->
+    <string name="onei_txt1">En enero de 2019, el Consejo de Ministros aprobó la política para el perfeccionamiento del Sistema de Información del Gobierno y de la Oficina Nacional de Estadística e Información (ONEI) fundamentado en el Lineamiento 272: Avanzar en la creación del Sistema de Información del Gobierno; asegurar el más alto grado de informatización que las posibilidades económicas permitan. Son parte del desarrollo del Artículo 53 de la Constitución de la República de Cuba: Todas las personas tienen derecho a solicitar y recibir del Estado información veraz, objetiva y oportuna, y a acceder a la que se genere en los órganos del Estado y entidades, conforme a las regulaciones establecidas.</string>
+    <string name="onei_txt2">Perspectiva: En Cuba el Sistema de Información del Gobierno satisface las necesidades de información relacionadas con los objetivos y planes del Gobierno en todos los niveles, de la sociedad y el ciudadano, para la toma de decisiones y el diseño de las políticas públicas que aseguran el desarrollo económico y social del país.</string>
+    <string name="onei_txt3">\"Los grandes cambios siempre vienen acompañados de una fuerte sacudida. No es el fin del mundo, es el inicio de uno nuevo\".</string>
+    <string name="onei_txt4">Actividades en que está inmersa la ONEI:</string>
+
+    <string name="a_txt1">Garantizar el soporte técnico de la actividad de Estadística.</string>
+    <string name="a_txt2">Estudio del comportamiento de precios minoristas y mayoristas.</string>
+    <string name="a_txt3">Proceso perfeccionamiento ONEI. Evaluación de los objetivos de trabajo 2020. plan de actividades 2021.</string>
+    <string name="a_txt4">Proceso evaluativo de los cuadros.</string>
+    <string name="a_txt5">Proceso de captación de modelos.</string>
+    <string name="a_txt6">Confección de los estados financieros.</string>
+    <string name="a_txt7">Actualización de la documentación de la plantilla del proceso de reordenamiento.</string>
+    <string name="a_txt8">Preparación para la aplicación de las nuevas normas cubanas de auditoria. Visita de control y ayuda para el proceso de ordenamiento en la ONEI Granma."</string>
+    <string name="a_txt9">Concertación de convenios.</string>
+    <string name="a_txt10">Preparación de las encuestas de ocupación y situación económica de los hogares.</string>
+
+    <string name="onei_txt5">Temas a promocionar y debatir en las redes:</string>
+    <string name="onei_txt6">Tarea Ordenamiento, Bloqueo de EE.UU, Derechos Humanos y Salud.</string>
+    <string name="onei_txt7">Le invitamos a compartir sus ideas y actividades con nosotros en nuestro boletín . Diríjase al departamento de comunicación y difusión de la ONEI Holguín.</string>
+    <!-- Fragment Leyes y Decretos -->
+    <string name="ld_txt1">El Decreto-Ley 6, del 16 de abril de 2020</string>
+    <string name="ld_txt2">que deroga el DL 281/2011, organizado en: seis (6) capítulos, veinticinco (25) artículos, Disposición Especial Única y cinco (5) Disposiciones Finales.</string>
+    <string name="ld_txt3">Reforzar la labor normativa de la ONEI, a tenor de la Disposición Especial Tercera del  Decreto-Ley 6: faculta al Jefe de la Oficina Nacional de Estadística e Información, para que dentro de su competencia, emita cuantas disposiciones complementarias resulten procedentes para la aplicación y el mejor cumplimiento de lo que este dispone.</string>
+    <string name="ld_txt4">El Decreto 9, del 29 de junio de 2020, Reglamento del Decreto-Ley 6</string>
+    <string name="ld_txt5">con el objetivo de facilitar su implementación. Se compone de: ocho (8) capítulos, sesenta y siete (67) artículos, Disposición Especial Única y cuatro (4) Disposiciones Finales.</string>
+    <string name="ld_txt6">(Se derogaron 14 disposiciones jurídicas: 1 Decreto-Ley (281/2011); 2 Decretos (65/1980 y 298/2012); 9 resoluciones del entonces Vicepresidente del Consejo de Ministros y Presidente del Consejo de Información y 2 resoluciones de competencia de la ONEI.)</string>
+    <string name="ld_txt7">En el  capítulo 3 del Anuario Estadístico de Cuba 2019, edición 2020 se presenta información sobre la población y los componentes del movimiento natural y migratorio. Se incluyen informaciones, tablas y gráficos de población, la distribución por municipios, zonas de residencia y la clasificación por los atributos demográficos fundamentales: sexo y  edad.</string>
+    <!-- MSj ERROR -->
+    <string name="not_app">No posee apk para esta acción :(</string>
+    <!-- DELETE -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
